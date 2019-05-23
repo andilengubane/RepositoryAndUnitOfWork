@@ -1,0 +1,15 @@
+C:\App\Development\C# Projects\RepositoryandUnitOfWorks\RepositoryandUnitOfWorks\bin\Debug\RepositoryandUnitOfWorks.exe.config
+C:\App\Development\C# Projects\RepositoryandUnitOfWorks\RepositoryandUnitOfWorks\bin\Debug\RepositoryandUnitOfWorks.exe
+C:\App\Development\C# Projects\RepositoryandUnitOfWorks\RepositoryandUnitOfWorks\bin\Debug\RepositoryandUnitOfWorks.pdb
+C:\App\Development\C# Projects\RepositoryandUnitOfWorks\RepositoryandUnitOfWorks\bin\Debug\RepositoryandUnitOfWorks.DataAccess.dll
+C:\App\Development\C# Projects\RepositoryandUnitOfWorks\RepositoryandUnitOfWorks\bin\Debug\EntityFramework.dll
+C:\App\Development\C# Projects\RepositoryandUnitOfWorks\RepositoryandUnitOfWorks\bin\Debug\RepositoryandUnitOfWorks.DataAccess.pdb
+C:\App\Development\C# Projects\RepositoryandUnitOfWorks\RepositoryandUnitOfWorks\bin\Debug\RepositoryandUnitOfWorks.DataAccess.dll.config
+C:\App\Development\C# Projects\RepositoryandUnitOfWorks\RepositoryandUnitOfWorks\bin\Debug\EntityFramework.xml
+C:\App\Development\C# Projects\RepositoryandUnitOfWorks\RepositoryandUnitOfWorks\obj\Debug\RepositoryandUnitOfWorks.csprojAssemblyReference.cache
+C:\App\Development\C# Projects\RepositoryandUnitOfWorks\RepositoryandUnitOfWorks\obj\Debug\RepositoryandUnitOfWorks.csproj.CoreCompileInputs.cache
+C:\App\Development\C# Projects\RepositoryandUnitOfWorks\RepositoryandUnitOfWorks\obj\Debug\RepositoryandUnitOfWorks.csproj.CopyComplete
+C:\App\Development\C# Projects\RepositoryandUnitOfWorks\RepositoryandUnitOfWorks\obj\Debug\RepositoryandUnitOfWorks.exe
+C:\App\Development\C# Projects\RepositoryandUnitOfWorks\RepositoryandUnitOfWorks\obj\Debug\RepositoryandUnitOfWorks.pdb
+C:\App\Development\C# Projects\RepositoryandUnitOfWorks\RepositoryandUnitOfWorks\bin\Debug\EntityFramework.SqlServer.dll
+C:\App\Development\C# Projects\RepositoryandUnitOfWorks\RepositoryandUnitOfWorks\bin\Debug\EntityFramework.SqlServer.xml
